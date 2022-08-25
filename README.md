@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salar-Sali
-- 👀 I’m interested in Programming and graphic design
-- 🌱 I’m currently learning programming (AI)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front-end and graphic design
+- 🌱 I’m currently learning Typescript and react
+- 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me : Email: salar.sali97@gmail.com
                      
 
